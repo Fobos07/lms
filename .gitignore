@@ -1,3 +1,4 @@
 .idea/
 .venv/
 matrix_lms/db.sqlite3
+/matrix_lms/*.sqlite3
